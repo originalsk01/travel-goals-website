@@ -5,6 +5,13 @@
 This is a simple HTML and CSS website that can be downloaded and used in the browser by opening the index.html file
 This website serves as an example of how to use the positioning property in CSS as well as the Grid property to give content structure in a 2D from
 
+It also contains a basic example of setting up a Hero image on a website.
+
+### Hero image
+
+![image](https://github.com/originalsk01/travel-goals-website/assets/46004600/799ab02d-8a39-4fbc-b42a-3e853e9aaff3)
+
+
 ## Examples of how Flexbox and Grid can be used to position items
 
 ### Flexbox
